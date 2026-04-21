@@ -3,7 +3,6 @@ import cv2
 import numpy as np
 from PIL import Image
 import pandas as pd
-
 st.set_page_config(page_title="AI Skin Analyzer Ultra", layout="wide")
 
 
